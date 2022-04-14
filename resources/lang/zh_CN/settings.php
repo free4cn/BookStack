@@ -10,8 +10,8 @@ return [
     'settings' => '设置',
     'settings_save' => '保存设置',
     'settings_save_success' => '设置已保存',
-    'system_version' => 'System Version',
-    'categories' => 'Categories',
+    'system_version' => '系统版本',
+    'categories' => '类型',
 
     // App Settings
     'app_customization' => '定制',
